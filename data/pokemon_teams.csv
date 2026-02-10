@@ -1,0 +1,16 @@
+pokemon_name,team_name,role,position,is_captain
+pikachu,Team Volt,attacker,1,true
+raichu,Team Volt,support,2,false
+jolteon,Team Volt,sweeper,3,false
+charizard,Team Blaze,attacker,1,true
+arcanine,Team Blaze,tank,2,false
+flareon,Team Blaze,support,3,false
+blastoise,Team Tide,tank,1,true
+vaporeon,Team Tide,support,2,false
+gyarados,Team Tide,attacker,3,false
+venusaur,Team Grove,tank,1,true
+vileplume,Team Grove,support,2,false
+exeggutor,Team Grove,attacker,3,false
+gengar,Team Phantom,attacker,1,true
+alakazam,Team Phantom,sweeper,2,false
+hypno,Team Phantom,support,3,false
